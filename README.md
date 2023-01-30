@@ -2,6 +2,8 @@
 
 ## Introduction to Backend Engineering 
 
+![The Backend Rules](Note-making-tank.jpeg)
+
 **What is the role of a Backend Engineer**
 
 1. Take design decision (architecture design - HLD)
