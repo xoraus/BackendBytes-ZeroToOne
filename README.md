@@ -34,5 +34,14 @@ Link - [Scaling hotstar.com for 25 million concurrent viewers - YouTube](https:/
 - [Brewing Code With Siddharth](https://github.com/xoraus/Backend-Specialization/blob/main/Industry-Professionals/Brewing-Code-With-Siddharth.md)
 
 
+## Resources by fellow developers
+
+By [Milind's Blog](https://blog.milind.live/) 
+
+- [Wait, so you're saying JavaScript isn't weird!](https://blog.milind.live/wait-so-youre-saying-javascript-isnt-weird)
+- [Understanding why the famous [object Object] pops up and handling it, tactfully.](https://blog.milind.live/object-object)
+- [Abstract Equality and Special Types!](https://blog.milind.live/abstract-equality-and-special-types)
+
+## 🚨 Pull requests are Welcome 😊, The more the better.
 
 
