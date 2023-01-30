@@ -34,13 +34,17 @@ Link - [Scaling hotstar.com for 25 million concurrent viewers - YouTube](https:/
 - [Brewing Code With Siddharth](https://github.com/xoraus/Backend-Specialization/blob/main/Industry-Professionals/Brewing-Code-With-Siddharth.md)
 
 
-## Resources by fellow developers
+## Resources/Articles by fellow batchmates
 
 By [Milind's Blog](https://blog.milind.live/) 
 
 - [Wait, so you're saying JavaScript isn't weird!](https://blog.milind.live/wait-so-youre-saying-javascript-isnt-weird)
 - [Understanding why the famous [object Object] pops up and handling it, tactfully.](https://blog.milind.live/object-object)
 - [Abstract Equality and Special Types!](https://blog.milind.live/abstract-equality-and-special-types)
+
+By [Mohini Mahato](https://www.linkedin.com/in/mohinimahato/)
+
+- [ToPrimitive ( input [,PreferredType 1) Abstract Operation](https://www.linkedin.com/posts/mohinimahato_toprimitive-abstract-operator-activity-7021741753808433153-Xa6J)
 
 ## 🚨 Pull requests are Welcome 😊, The more the better.
 
