@@ -1,6 +1,6 @@
 # Backend Specialization
 
-## Introduction to Backend Engineering
+## Introduction to Backend Engineering 
 
 **What is the role of a Backend Engineer**
 
@@ -19,4 +19,18 @@ The main focus during the course is going to be outcome
 - testable JS applications
 
 Link - [Scaling hotstar.com for 25 million concurrent viewers - YouTube](https://www.youtube.com/watch?v=QjvyiyH4rr0)
+
+
+## Lectures
+
+- [Introduction to IS 2 | Operators | Conditionals | Loops basic](/Lectures/Introduction-to-JS 2-Operators-Conditionals-Loops-basic.md)
+- [Is Javascript Compiled? I Lexical Scoping](/Lectures/Is-Javascript-Compiled?-Lexical-Scoping.md)
+- [Lexical Scoping I Auto Global](Lexical-Scoping-Auto-Global.md)
+- [Function Expression] Coming Soon
+
+## Industry Professionals
+- [Brewing Code With Siddharth](/Industry-Professionals/Brewing-Code-With Siddharth.md)
+
+
+
 

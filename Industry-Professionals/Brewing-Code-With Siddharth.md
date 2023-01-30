@@ -2,7 +2,9 @@
 - Majority part is to understand how to solve a problem and how to solve in neat and clean way.
 	- 50% of what, how, and why of problem. (Preparing Design Doc)
 - How to scale applications?
-	- Prime focus should be solving the problem in an efficient way.![[Learn Backend In NodeS From Scratch-20230114103027.png]]
+	- Prime focus should be solving the problem in an efficient way.
+	- UPI Transactions in India
+	- ![PhonePe.jpeg](PhonePe.jpeg)
 - What is most important while scaling?
 	- Design Patterns etc.
 	- SLA, on calls?
