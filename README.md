@@ -22,13 +22,21 @@ The main focus during the course is going to be outcome
 
 Link - [Scaling hotstar.com for 25 million concurrent viewers - YouTube](https://www.youtube.com/watch?v=QjvyiyH4rr0)
 
+---
 
 ## Lectures
+
+### Advance JavaScript - Part 1
 
 - [Introduction to JS 2](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Introduction-to-JS%202-Operators-Conditionals-Loops-basic.md)
 - [Is Javascript Compiled? I Lexical Scoping](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Is-Javascript-Compiled%3F-Lexical-Scoping.md)
 - [Lexical Scoping I Auto Global](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Lexical-Scoping-Auto-Global.md)
-- [Function Expression] Coming Soon
+- [Function Expression](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Function-Expression.md) (Recently Updated) 🔥🔥🔥
+
+### Advance JavaScript (Asynchronous JS) - Part 2
+- [Callbacks I Inversion of control] - Coming Soon
+- [How runtime helps in async natureof JS] - Coming Soon
+
 
 ## Industry Professionals
 - [Brewing Code With Siddharth](https://github.com/xoraus/Backend-Specialization/blob/main/Industry-Professionals/Brewing-Code-With-Siddharth.md)
@@ -44,7 +52,7 @@ By [Milind's Blog](https://blog.milind.live/)
 
 By [Mohini Mahato](https://www.linkedin.com/in/mohinimahato/)
 
-- [ToPrimitive ( input [,PreferredType 1) Abstract Operation](https://www.linkedin.com/posts/mohinimahato_toprimitive-abstract-operator-activity-7021741753808433153-Xa6J)
+- [Abstract Operation](https://www.linkedin.com/posts/mohinimahato_toprimitive-abstract-operator-activity-7021741753808433153-Xa6J)
 
 ## 🚨 Pull requests are Welcome 😊, The more the better.
 
