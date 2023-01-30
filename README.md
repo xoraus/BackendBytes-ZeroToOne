@@ -23,13 +23,13 @@ Link - [Scaling hotstar.com for 25 million concurrent viewers - YouTube](https:/
 
 ## Lectures
 
-- [Introduction to JS 2](Introduction-to-JS2-Operators-Conditionals-Loops-basic.md)
-- [Is Javascript Compiled? I Lexical Scoping](Is-Javascript-Compiled?-Lexical-Scoping.md)
-- [Lexical Scoping I Auto Global](Lexical-Scoping-Auto-Global.md)
+- [Introduction to JS 2](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Introduction-to-JS%202-Operators-Conditionals-Loops-basic.md)
+- [Is Javascript Compiled? I Lexical Scoping](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Is-Javascript-Compiled%3F-Lexical-Scoping.md)
+- [Lexical Scoping I Auto Global](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Lexical-Scoping-Auto-Global.md)
 - [Function Expression] Coming Soon
 
 ## Industry Professionals
-- [Brewing Code With Siddharth](Brewing-Code-With-Siddharth.md)
+- [Brewing Code With Siddharth](https://github.com/xoraus/Backend-Specialization/blob/main/Industry-Professionals/Brewing-Code-With-Siddharth.md)
 
 
 
