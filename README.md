@@ -33,6 +33,8 @@ Link - [Scaling hotstar.com for 25 million concurrent viewers - YouTube](https:/
 - [Lexical Scoping I Auto Global](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Lexical-Scoping-Auto-Global.md)
 - [Function Expression](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Function-Expression.md) (Recently Updated) 🔥🔥🔥
 
+![FunctionExpression](FunctionExpression.jpeg)
+
 ### Advance JavaScript (Asynchronous JS) - Part 2
 - [Callbacks I Inversion of control] - Coming Soon
 - [How runtime helps in async natureof JS] - Coming Soon
