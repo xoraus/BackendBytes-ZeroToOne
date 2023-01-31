@@ -56,6 +56,12 @@ By [Mohini Mahato](https://www.linkedin.com/in/mohinimahato/)
 
 - [Abstract Operation](https://www.linkedin.com/posts/mohinimahato_toprimitive-abstract-operator-activity-7021741753808433153-Xa6J)
 
+By [Sachin](https://github.com/Sachin-RJ7) -> 'Handwritten'
+
+- [Advance JavaScript](https://github.com/xoraus/Backend-Specialization/blob/main/Notes/Advance-JS.pdf)
+- [Callbacks, Inversion of Control](https://github.com/xoraus/Backend-Specialization/blob/main/Notes/callbacks_Inversion_of_control_.pdf)
+- [How Runtime helps in async nature of JS](https://github.com/xoraus/Backend-Specialization/blob/main/Notes/How_runtime_helps_in_async_nature_of_JS.pdf)
+
 ## 🚨 Pull requests are Welcome 😊, The more the better.
 
 
