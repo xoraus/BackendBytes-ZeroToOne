@@ -5,7 +5,7 @@
 	- 1 + 1 → 2
 	- "1" + 1 → "11"
 	- "1" - 1 → 0
-- Javascript is not weird, it's just people have read the documentation.
+- Javascript is not weird, it's just people have never read the documentation.
 	- defined in ECMA Script
 - [[Coercion]] → type conversion
 	- What is Coercion?
