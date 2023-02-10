@@ -22,7 +22,7 @@ I prefer taking notes in bullet format, with subpoints providing explanations an
 - [Function Expression](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Function-Expression.md) 
 
 ### 📚 Advance JavaScript (Asynchronous JS) - Part 2
-- [Callbacks Inversion of Control](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Callbacks-IVC.md) 🔥 updated on [10-Feb-2023]
+- [Callbacks Inversion of Control](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Callbacks-IVC.md)
 - [How runtime helps in async nature of JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/How-runtime-helps-in-async-nature-of-JS.md) 🔥 updated on [10-Feb-2023]
 - [Async Behaviour with Callbacks](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Async-Behaviour-with-Callbacks.md) 🔥 updated on [10-Feb-2023]
 
