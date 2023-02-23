@@ -37,7 +37,7 @@ Everyone is happy: you, because the people don’t crowd you anymore, and fans, 
 	- pending → when we create a new promise object this is the default state. It represents work in progress
 	- fulfilled → if the operation is completed successfully.
 	- rejected → if operation was not successful.
-- `new Promise(f)` this <span class="undefined">undefined</span> expects a callback.
+- ```new Promise(f)```
 
 ```js
 let promise = new Promise(function(resolve, reject) {
