@@ -11,6 +11,13 @@ To get some relief, you promise to send it to them when it’s published. You gi
 
 Everyone is happy: you, because the people don’t crowd you anymore, and fans, because they won’t miss the song.
 
+> **_Benefits of Promises_**
+
+1.  Improves Code Readability
+2.  Better handling of asynchronous operations
+3.  Better flow of control definition in asynchronous logic
+4.  Better Error Handling
+
 - Promises increases the readability of code.
 - Promises helps us in solving the problem of **Inversion of Control**.
 - In JS, Promises are special type of objects that get returned immediately when we call them.
