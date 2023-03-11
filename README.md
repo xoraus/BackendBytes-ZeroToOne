@@ -25,7 +25,14 @@ I prefer taking notes in bullet format, with subpoints providing explanations an
 - [Callbacks Inversion of Control](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Callbacks-IVC.md)
 - [How runtime helps in async nature of JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/How-runtime-helps-in-async-nature-of-JS.md) 
 - [Async Behaviour with Callbacks](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Async-Behaviour-with-Callbacks.md) 
-- [Introduction to Promises](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/intro-to-promises.md) 🔥 updated on [23-Feb-2023]
+- [Introduction to Promises](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/intro-to-promises.md)
+- [Promises: Part 2]() 🚧 (will be updated soon)
+- [Promises: Part 3]() 🚧 (will be updated soon)
+- [Promises: Part 4]() 🚧 (will be updated soon)
+- [Generators and iterators]() 🚧 (will be updated soon)
+- [Async Await]() 🚧 (will be updated soon)
+- [Introduction to Databases & DBMS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/intro-to-dbms.md) 🔥✅ updated on [11-Mar-2023]
+
 
 ## 👨🏻‍💻 Industry Professionals
 - [Brewing Code With Siddharth](https://github.com/xoraus/Backend-Specialization/blob/main/Industry-Professionals/Brewing-Code-With-Siddharth.md)
