@@ -31,8 +31,11 @@ I prefer taking notes in bullet format, with subpoints providing explanations an
 - [Promises: Part 4]() 🚧 (will be updated soon)
 - [Generators and iterators]() 🚧 (will be updated soon)
 - [Async Await]() 🚧 (will be updated soon)
-- [Introduction to Databases & DBMS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/intro-to-dbms.md) 🔥✅ updated on [11-Mar-2023]
-
+- [Introduction to Databases & DBMS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/intro-to-dbms.md) 
+- [SQL: Introduction](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL1.md) 🔥updated on [17-Mar-2023]
+- [SQL: Commands](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL2.md) 🔥updated on [17-Mar-2023]
+- [SQL: Joins](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL3.md) 🔥updated on [17-Mar-2023]
+-[SQL: Normalization](#) >>>> coming soon 
 
 ## 👨🏻‍💻 Industry Professionals
 - [Brewing Code With Siddharth](https://github.com/xoraus/Backend-Specialization/blob/main/Industry-Professionals/Brewing-Code-With-Siddharth.md)
