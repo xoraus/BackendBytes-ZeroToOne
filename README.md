@@ -22,20 +22,20 @@ I prefer taking notes in bullet format, with subpoints providing explanations an
 - [Function Expression](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Function-Expression.md) 
 
 ### 📚 Advance JavaScript (Asynchronous JS) - Part 2
-- [Callbacks Inversion of Control](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Callbacks-IVC.md)
-- [How runtime helps in async nature of JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/How-runtime-helps-in-async-nature-of-JS.md) 
-- [Async Behaviour with Callbacks](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Async-Behaviour-with-Callbacks.md) 
-- [Introduction to Promises](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/intro-to-promises.md)
-- [Promises: Part 2]() 🚧 (will be updated soon)
-- [Promises: Part 3]() 🚧 (will be updated soon)
-- [Promises: Part 4]() 🚧 (will be updated soon)
-- [Generators and iterators]() 🚧 (will be updated soon)
-- [Async Await]() 🚧 (will be updated soon)
-- [Introduction to Databases & DBMS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/intro-to-dbms.md) 
-- [SQL: Introduction](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL1.md) 🔥updated on [17-Mar-2023]
-- [SQL: Commands](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL2.md) 🔥updated on [17-Mar-2023]
-- [SQL: Joins](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL3.md) 🔥updated on [17-Mar-2023]
--[SQL: Normalization](#) >>>> coming soon 
+- ✅ [Callbacks Inversion of Control](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Callbacks-IVC.md)
+- ✅ [How runtime helps in async nature of JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/How-runtime-helps-in-async-nature-of-JS.md) 
+- ✅ [Async Behaviour with Callbacks](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Async-Behaviour-with-Callbacks.md) 
+- ✅ [Introduction to Promises](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/intro-to-promises.md)
+- 🚧 [Promises: Part 2]() 🚧 (work in progress)
+- 🚧 [Promises: Part 3]()
+- 🚧 [Promises: Part 4]()
+- 🚧 [Generators and iterators]()
+- 🚧 [Async Await]()
+- ✅ [Introduction to Databases & DBMS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/intro-to-dbms.md) 
+- ✅ [SQL: Introduction](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL1.md) 🔥updated on [17-Mar-2023]
+- ✅ [SQL: Commands](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL2.md) 🔥updated on [17-Mar-2023]
+- ✅ [SQL: Joins](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL3.md) 🔥updated on [17-Mar-2023]
+- [SQL: Normalization](#) >>>> coming soon 
 
 ## 👨🏻‍💻 Industry Professionals
 - [Brewing Code With Siddharth](https://github.com/xoraus/Backend-Specialization/blob/main/Industry-Professionals/Brewing-Code-With-Siddharth.md)
