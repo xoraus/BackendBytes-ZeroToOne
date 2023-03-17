@@ -8,21 +8,25 @@
 ## I. Basic Commands:
 
 A. Show Database - to show all the databases available on your system.
+
 ```sql
 SHOW DATABASES;
 ```
 
 B. Select Database - to select a particular database to run queries on.
+
 ```sql
 USE [database_name];
 ```
 
 C. Show Tables - to list down all the tables of a particular selected database.
+
 ```sql
 SHOW TABLES;
 ```
 
 D. Create Database - to create a new database.
+
 ```sql
 CREATE DATABASE [database_name];
 ```
