@@ -16,10 +16,10 @@ I prefer taking notes in bullet format, with subpoints providing explanations an
 
 ### 📚 Advance JavaScript - Part 1
 
-- [Introduction to JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Introduction-to-JS%202-Operators-Conditionals-Loops-basic.md)
-- [Is Javascript Compiled? I Lexical Scoping](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Is-Javascript-Compiled%3F-Lexical-Scoping.md)
-- [Lexical Scoping I Auto Global](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Lexical-Scoping-Auto-Global.md)
-- [Function Expression](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Function-Expression.md) 
+- ✅[Introduction to JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Introduction-to-JS%202-Operators-Conditionals-Loops-basic.md)
+- ✅[Is Javascript Compiled? I Lexical Scoping](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Is-Javascript-Compiled%3F-Lexical-Scoping.md)
+- ✅[Lexical Scoping I Auto Global](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Lexical-Scoping-Auto-Global.md)
+- ✅[Function Expression](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Function-Expression.md) 
 
 ### 📚 Advance JavaScript (Asynchronous JS) - Part 2
 - ✅ [Callbacks Inversion of Control](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Callbacks-IVC.md)
@@ -35,10 +35,18 @@ I prefer taking notes in bullet format, with subpoints providing explanations an
 ## Databases & SQL
 
 - ✅ [Introduction to Databases & DBMS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/intro-to-dbms.md) 
-- ✅ [SQL: Introduction](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL1.md) 🔥updated on [17-Mar-2023]
-- ✅ [SQL: Commands](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL2.md) 🔥updated on [17-Mar-2023]
-- ✅ [SQL: Joins](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL3.md) 🔥updated on [17-Mar-2023]
-- [SQL: Normalization](#) >>>> coming soon 
+- ✅ [SQL: Introduction](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL1.md) 
+- ✅ [SQL: Commands](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL2.md) 
+- ✅ [SQL: Joins](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL3.md) 
+- ✅[Normalization - I](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Normalization-I.md) 🔥updated on [27-Mar-2023]
+- ✅[Normalization - II](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Normalization-II.md) 🔥updated on [27-Mar-2023]
+
+
+## Version control with GIT - 💡 (up next)
+- 🚧 [Git and Github | Introduction | Basic commands]
+- 🚧 [Git starters]
+
+---
 
 ## 👨🏻‍💻 Industry Professionals
 - [Brewing Code With Siddharth](https://github.com/xoraus/Backend-Specialization/blob/main/Industry-Professionals/Brewing-Code-With-Siddharth.md)
