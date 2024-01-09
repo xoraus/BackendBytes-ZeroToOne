@@ -4,24 +4,38 @@ This repository is dedicated to the Backend Development with NodeJS. Here you wi
 
 `Cousre Instructor` - [Sanket Singh](https://in.linkedin.com/in/singhsanket143) SWE II @ Google | Ex-SDE @ Linked[In]
 
-## 📝 How do I take notes before uploading them to GitHub?
-
-I prefer taking notes in bullet format, with subpoints providing explanations and additional reference material to solidify my understanding of the topic. **+** I use [Obsidian](https://obsidian.md/) for everything (Notes, Journal, Knowledge Management etc)
-
-## ✨ Notes Preview
+#### ✨ Notes Preview
 
 ![notes](notes-snapshot.jpeg)
 
-## 🏆 Lectures
 
-### 📚 Advance JavaScript - Part 1
+### 📚 JavaScript - The Easy Parts
+
+01. [JavaScript Fundamentals Part 1](https://github.com/xoraus/Javascript-Notes/blob/main/01.%20JavaScript%20Fundamentals%20Part%201.md)
+02. [JavaScript Fundamentals Part 2](https://github.com/xoraus/Javascript-Notes/blob/main/02.%20JavaScript%20Fundamentals%20Part%202.md)
+03. How to Navigate This Course
+04. [Developer Skills & Editor Setup](https://github.com/xoraus/Javascript-Notes/blob/main/04.%20Developer%20Skills%20%26%20Editor%20Setup.md)
+05. [OPTIONAL: HTML & CSS Crash Course](https://github.com/xoraus/Javascript-Notes/blob/main/05.%20HTML%20%26%20CSS%20Crash%20Course.md)
+06. [JavaScript in the Browser: DOM and Events Fundamentals](https://github.com/xoraus/Javascript-Notes/blob/main/06.%20DOM%20and%20Events%20Fundamentals.md)
+07. [How JavaScript Works Behind the Scenes](https://github.com/xoraus/Javascript-Notes/blob/main/07.%20How%20JavaScript%20Works%20Behind%20the%20Scenes.md)
+08. [Data Structures, Modern Operators and Strings](https://github.com/xoraus/Javascript-Notes/blob/main/08.%20Data%20Structures%2C%20Modern%20Operators%20and%20Strings.md)
+09. [A Closer Look at Functions](https://github.com/xoraus/Javascript-Notes/blob/main/09.%20A%20Closer%20Look%20at%20Functions.md)
+10. [Working With Arrays](https://github.com/xoraus/Javascript-Notes/blob/main/10.%20Working%20With%20Arrays.md)
+11. [Numbers, Dates, Intl and Timers](https://github.com/xoraus/Javascript-Notes/blob/main/11.%20Numbers%2C%20Dates%2C%20Intl%20and%20Timers.md)
+12. [Advanced DOM and Events](https://github.com/xoraus/Javascript-Notes/blob/main/12.%20Advanced%20DOM%20and%20Events.md)
+13. [Object-Oriented Programming (O0P) With JavaScript](https://github.com/xoraus/Javascript-Notes/blob/main/13.%20Object-Oriented%20Programming%20(O0P)%20With%20JavaScript.md)
+14. [Mapty App: OOP, Geolocation, External Libraries, and More!](https://github.com/xoraus/Javascript-Notes/blob/main/13.%20Object-Oriented%20Programming%20(OOP)%20.md)
+15. [Asynchronous JavaScript: Promises, Async/Await, and AJAX](https://github.com/xoraus/Javascript-Notes/blob/main/14.%20Mapty%20App%20-%20OOP%2C%20Geolocation%2C%20External%20Libraries%2C%20and%20More!.md)
+16. [Modern JavaScript Development: Modules, Tooling, and Functional]()
+17. [Forkify App: Building a Modern Application]()
+18. [Setting Up Git and Deployment]()
+
+### 📚 Advance JavaScript - The Hard Parts
 
 - ✅[Introduction to JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Introduction-to-JS%202-Operators-Conditionals-Loops-basic.md)
 - ✅[Is Javascript Compiled? I Lexical Scoping](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Is-Javascript-Compiled%3F-Lexical-Scoping.md)
 - ✅[Lexical Scoping I Auto Global](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Lexical-Scoping-Auto-Global.md)
 - ✅[Function Expression](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Function-Expression.md) 
-
-### 📚 Advance JavaScript (Asynchronous JS) - Part 2
 - ✅ [Callbacks Inversion of Control](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Callbacks-IVC.md)
 - ✅ [How runtime helps in async nature of JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/How-runtime-helps-in-async-nature-of-JS.md) 
 - ✅ [Async Behaviour with Callbacks](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Async-Behaviour-with-Callbacks.md) 
@@ -38,8 +52,8 @@ I prefer taking notes in bullet format, with subpoints providing explanations an
 - ✅ [SQL: Introduction](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL1.md) 
 - ✅ [SQL: Commands](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL2.md) 
 - ✅ [SQL: Joins](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL3.md) 
-- ✅[Normalization - I](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Normalization-I.md) 🔥updated on [27-Mar-2023]
-- ✅[Normalization - II](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Normalization-II.md) 🔥updated on [27-Mar-2023]
+- ✅[Normalization - I](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Normalization-I.md) 
+- ✅[Normalization - II](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Normalization-II.md)
 
 
 ## Version control with GIT - 💡 (up next)
@@ -48,11 +62,13 @@ I prefer taking notes in bullet format, with subpoints providing explanations an
 
 ---
 
-## 👨🏻‍💻 Industry Professionals
+## Resources / Blogs / Articles
+
+### 👨🏻‍💻 Industry Professionals
 - [Brewing Code With Siddharth](https://github.com/xoraus/Backend-Specialization/blob/main/Industry-Professionals/Brewing-Code-With-Siddharth.md)
 
 
-## 🧵 Resources/Articles by fellow batchmates
+### 🧵 Resources/Articles by fellow batchmates
 
 By [Milind's Blog](https://blog.milind.live/) 
 
@@ -70,7 +86,7 @@ By [Sachin](https://github.com/Sachin-RJ7) -> 'Handwritten'
 - [Callbacks, Inversion of Control](https://github.com/xoraus/Backend-Specialization/blob/main/Notes/callbacks_Inversion_of_control_.pdf)
 - [How Runtime helps in async nature of JS](https://github.com/xoraus/Backend-Specialization/blob/main/Notes/How_runtime_helps_in_async_nature_of_JS.pdf)
 
-## 📚 Notes from the Orientation Session🔥
+### 📚 Notes from the Orientation Session🔥
 
 **What is Backend Engineering?**
 
@@ -102,7 +118,7 @@ Link - [Scaling hotstar.com for 25 million concurrent viewers - YouTube](https:/
 
 ---
 
-## 🎓 Course Curriculum Key Highlights
+### 🎓 Course Curriculum Key Highlights
 
 - Basics of JavaScript 
 - Advanced JavaScript 
