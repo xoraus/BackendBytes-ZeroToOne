@@ -32,10 +32,10 @@ This repository is dedicated to the Backend Development with NodeJS. Here you wi
 
 ### 📚 Advance JavaScript - The Hard Parts
 
-- ✅[Introduction to JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Introduction-to-JS%202-Operators-Conditionals-Loops-basic.md)
-- ✅[Is Javascript Compiled? I Lexical Scoping](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Is-Javascript-Compiled%3F-Lexical-Scoping.md)
-- ✅[Lexical Scoping I Auto Global](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Lexical-Scoping-Auto-Global.md)
-- ✅[Function Expression](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Function-Expression.md) 
+- ✅ [Introduction to JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Introduction-to-JS%202-Operators-Conditionals-Loops-basic.md)
+- ✅ [Is Javascript Compiled? I Lexical Scoping](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Is-Javascript-Compiled%3F-Lexical-Scoping.md)
+- ✅ [Lexical Scoping I Auto Global](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Lexical-Scoping-Auto-Global.md)
+- ✅ [Function Expression](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Function-Expression.md) 
 - ✅ [Callbacks Inversion of Control](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Callbacks-IVC.md)
 - ✅ [How runtime helps in async nature of JS](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/How-runtime-helps-in-async-nature-of-JS.md) 
 - ✅ [Async Behaviour with Callbacks](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Async-Behaviour-with-Callbacks.md) 
@@ -52,8 +52,8 @@ This repository is dedicated to the Backend Development with NodeJS. Here you wi
 - ✅ [SQL: Introduction](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL1.md) 
 - ✅ [SQL: Commands](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL2.md) 
 - ✅ [SQL: Joins](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/SQL3.md) 
-- ✅[Normalization - I](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Normalization-I.md) 
-- ✅[Normalization - II](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Normalization-II.md)
+- ✅ [Normalization - I](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Normalization-I.md) 
+- ✅ [Normalization - II](https://github.com/xoraus/Backend-Specialization/blob/main/Lectures/Normalization-II.md)
 
 
 ## Version control with GIT - 💡 (up next)
