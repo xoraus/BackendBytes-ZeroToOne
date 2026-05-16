@@ -1737,8 +1737,6 @@ Ready to begin? Here's your first hour:
 
 ## 🙏 Acknowledgments
 
-This repository is part of a guided learning experience led by **[Sanket Singh](https://in.linkedin.com/in/singhsanket143)** — Software Engineer II at Google, ex-SDE at LinkedIn.
-
 Special thanks to all community contributors who've shared notes, diagrams, and improvements.
 
 ---
