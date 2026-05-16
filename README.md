@@ -940,23 +940,19 @@ sequenceDiagram
     participant Client
     participant Server
 
-    rect rgb(240, 240, 240)
-        Note over Client,Server: REST: Request/Response
-        Client->>Server: GET /messages
-        Server-->>Client: Messages [1,2,3]
-        Note over Client: Polls every 5 seconds
-        Client->>Server: GET /messages
-        Server-->>Client: Messages [1,2,3,4]
-    end
+    Note over Client,Server: === REST: Request/Response ===
+    Client->>Server: GET /messages
+    Server-->>Client: Messages [1,2,3]
+    Note over Client: (Polls every 5 seconds)
+    Client->>Server: GET /messages
+    Server-->>Client: Messages [1,2,3,4]
 
-    rect rgb(230, 245, 230)
-        Note over Client,Server: WebSocket: Persistent Connection
-        Client->>Server: WS Connect
-        Server-->>Client: Connected
-        Note over Client,Server: Connection stays open
-        Server-->>Client: New message: 4
-        Server-->>Client: New message: 5
-    end
+    Note over Client,Server: === WebSocket: Persistent Connection ===
+    Client->>Server: WS Connect
+    Server-->>Client: Connected
+    Note over Client,Server: Connection stays open
+    Server-->>Client: New message: 4
+    Server-->>Client: New message: 5
 ```
 
 #### Practical Project Ideas
