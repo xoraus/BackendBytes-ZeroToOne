@@ -11,7 +11,7 @@
 
 *From zero backend knowledge → building production-ready systems.*
 
-[🚀 Start Learning](#-quick-start) • [📋 Roadmap](#-backend-roadmap-levels) • [📁 Repository](#-repository-navigation) • [❓ FAQ](#-faq)
+[📚 Syllabus](#-complete-syllabus) • [🚀 Start Learning](#-quick-start) • [📋 Roadmap](#-backend-roadmap-levels) • [❓ FAQ](#-faq)
 
 </div>
 
@@ -19,6 +19,7 @@
 
 ## 📖 Table of Contents
 
+- [📚 Complete Syllabus](#-complete-syllabus) ← **Start Here**
 - [What is Backend Development?](#-what-is-backend-development)
 - [Why This Repository?](#-why-this-repository)
 - [Learning Philosophy](#-learning-philosophy)
@@ -137,6 +138,205 @@ By the end of this journey, you'll have built:
 - A real-time chat system
 - A microservices-based airline booking engine
 - Production deployments on cloud infrastructure
+
+---
+
+## 📚 Complete Syllabus
+
+> **How to use this:** Every topic below is a clickable link to its dedicated tutorial file.  
+> 🟢 = Ready to read &nbsp;&nbsp; 🚧 = Work in progress &nbsp;&nbsp; ⚪ = Planned / waiting for content
+
+---
+
+### 1. Orientation
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 1.1 | [Information Guide](01-Orientation/Information-Guide.md) | ⚪ | `01-Orientation/Information-Guide.md` |
+| 1.2 | [Course Navigation](01-Orientation/Course-Navigation.md) | ⚪ | `01-Orientation/Course-Navigation.md` |
+
+---
+
+### 2. JavaScript Fundamentals
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 2.1 | [Introduction to Programming with JavaScript](02-JavaScript-Fundamentals/Introduction-to-Programming-with-JavaScript.md) | 🟢 | `02-JavaScript-Fundamentals/Introduction-to-Programming-with-JavaScript.md` |
+| 2.2 | [Conditionals in JavaScript](02-JavaScript-Fundamentals/Conditionals-in-JavaScript.md) | 🟢 | `02-JavaScript-Fundamentals/Conditionals-in-JavaScript.md` |
+| 2.3 | [Loops in JavaScript](02-JavaScript-Fundamentals/Loops-in-JavaScript.md) | 🟢 | `02-JavaScript-Fundamentals/Loops-in-JavaScript.md` |
+| 2.4 | [Functions](02-JavaScript-Fundamentals/Functions.md) | 🟢 | `02-JavaScript-Fundamentals/Functions.md` |
+| 2.5 | [Arrays in JavaScript](02-JavaScript-Fundamentals/Arrays-in-JavaScript.md) | 🟢 | `02-JavaScript-Fundamentals/Arrays-in-JavaScript.md` |
+| 2.6 | [Miscellaneous Fundamentals](02-JavaScript-Fundamentals/Miscellaneous-Fundamentals.md) | 🟢 | `02-JavaScript-Fundamentals/Miscellaneous-Fundamentals.md` |
+| 2.7 | [Unary Operators](02-JavaScript-Fundamentals/Unary-Operators.md) | 🟢 | `02-JavaScript-Fundamentals/Unary-Operators.md` |
+| 2.8 | [Switch](02-JavaScript-Fundamentals/Switch.md) | 🟢 | `02-JavaScript-Fundamentals/Switch.md` |
+| 2.9 | [Pattern Problem Solving](02-JavaScript-Fundamentals/Pattern-Problem-Solving.md) | 🟢 | `02-JavaScript-Fundamentals/Pattern-Problem-Solving.md` |
+| 2.10 | [Problem Solving on Loops](02-JavaScript-Fundamentals/Problem-Solving-on-Loops.md) | 🟢 | `02-JavaScript-Fundamentals/Problem-Solving-on-Loops.md` |
+
+---
+
+### 3. Advanced JavaScript Core Concepts
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 3.1 | [Type Coercion & Abstract Operations](03-Advanced-JavaScript-Core-Concepts/Type-Coercion-and-Abstract-Operations.md) | 🟢 | `03-Advanced-JavaScript-Core-Concepts/Type-Coercion-and-Abstract-Operations.md` |
+| | *— Coercion* | | |
+| | *— ToPrimitive* | | |
+| | *— ToString* | | |
+| | *— ValueOf* | | |
+| | *— ToBoolean* | | |
+| | *— Abstract Equality* | | |
+| | *— Strict Equality* | | |
+| | *— Boxing* | | |
+| | *— NaN* | | |
+| | *— Negative Zero* | | |
+| 3.2 | [Scope & Execution Context](03-Advanced-JavaScript-Core-Concepts/Scope-and-Execution-Context.md) | 🟢 | `03-Advanced-JavaScript-Core-Concepts/Scope-and-Execution-Context.md` |
+| | *— Scopes* | | |
+| | *— Lexical Scoping* | | |
+| | *— var / let / const* | | |
+| 3.3 | [Higher Order Functions](03-Advanced-JavaScript-Core-Concepts/Higher-Order-Functions.md) | 🟢 | `03-Advanced-JavaScript-Core-Concepts/Higher-Order-Functions.md` |
+| 3.4 | [Callbacks](03-Advanced-JavaScript-Core-Concepts/Callbacks.md) | 🟢 | `03-Advanced-JavaScript-Core-Concepts/Callbacks.md` |
+| 3.5 | [Closures](03-Advanced-JavaScript-Core-Concepts/Closures.md) | 🟢 | `03-Advanced-JavaScript-Core-Concepts/Closures.md` |
+| 3.6 | [Iterators](03-Advanced-JavaScript-Core-Concepts/Iterators.md) | 🟢 | `03-Advanced-JavaScript-Core-Concepts/Iterators.md` |
+| 3.7 | [Generators](03-Advanced-JavaScript-Core-Concepts/Generators.md) | 🟢 | `03-Advanced-JavaScript-Core-Concepts/Generators.md` |
+
+---
+
+### 4. Asynchronous JavaScript
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 4.1 | [Async Nature of JavaScript](04-Asynchronous-JavaScript/Async-Nature-of-JavaScript.md) | 🟢 | `04-Asynchronous-JavaScript/Async-Nature-of-JavaScript.md` |
+| 4.2 | [Introduction to Promises](04-Asynchronous-JavaScript/Introduction-to-Promises.md) | 🟢 | `04-Asynchronous-JavaScript/Introduction-to-Promises.md` |
+| 4.3 | [Promises In Depth](04-Asynchronous-JavaScript/Promises-In-Depth.md) | 🟢 | `04-Asynchronous-JavaScript/Promises-In-Depth.md` |
+| 4.4 | [Promise Chaining](04-Asynchronous-JavaScript/Promise-Chaining.md) | 🟢 | `04-Asynchronous-JavaScript/Promise-Chaining.md` |
+| 4.5 | [Converting Callbacks to Promises](04-Asynchronous-JavaScript/Converting-Callbacks-to-Promises.md) | 🟢 | `04-Asynchronous-JavaScript/Converting-Callbacks-to-Promises.md` |
+| 4.6 | [Async / Await](04-Asynchronous-JavaScript/Async-Await.md) | 🟢 | `04-Asynchronous-JavaScript/Async-Await.md` |
+
+---
+
+### 5. Object-Oriented JavaScript
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 5.1 | [Objects](05-Object-Oriented-JavaScript/Objects.md) | ⚪ | `05-Object-Oriented-JavaScript/Objects.md` |
+| 5.2 | [Classes](05-Object-Oriented-JavaScript/Classes.md) | ⚪ | `05-Object-Oriented-JavaScript/Classes.md` |
+| 5.3 | [Prototypes](05-Object-Oriented-JavaScript/Prototypes.md) | ⚪ | `05-Object-Oriented-JavaScript/Prototypes.md` |
+| 5.4 | [Inheritance](05-Object-Oriented-JavaScript/Inheritance.md) | ⚪ | `05-Object-Oriented-JavaScript/Inheritance.md` |
+| 5.5 | [OOP Concepts](05-Object-Oriented-JavaScript/OOP-Concepts.md) | ⚪ | `05-Object-Oriented-JavaScript/OOP-Concepts.md` |
+
+---
+
+### 6. Developer Tools & Fundamentals
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 6.1 | [Git / Version Control](06-Developer-Tools-and-Fundamentals/Git-and-Version-Control.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/Git-and-Version-Control.md` |
+| 6.2 | [Linux Fundamentals](06-Developer-Tools-and-Fundamentals/Linux-Fundamentals.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/Linux-Fundamentals.md` |
+| 6.3 | [How Internet Works](06-Developer-Tools-and-Fundamentals/How-Internet-Works.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/How-Internet-Works.md` |
+| 6.4 | [Computer Networks](06-Developer-Tools-and-Fundamentals/Computer-Networks.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/Computer-Networks.md` |
+
+---
+
+### 7. Databases
+
+#### 7.1 Relational Databases
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 7.1.1 | [Introduction to Databases & RDBMS](07-Databases/Relational-Databases/Introduction-to-Databases-and-RDBMS.md) | ⚪ | `07-Databases/Relational-Databases/Introduction-to-Databases-and-RDBMS.md` |
+| 7.1.2 | [Functional Dependency](07-Databases/Relational-Databases/Functional-Dependency.md) | ⚪ | `07-Databases/Relational-Databases/Functional-Dependency.md` |
+| 7.1.3 | [Normalization](07-Databases/Relational-Databases/Normalization.md) | ⚪ | `07-Databases/Relational-Databases/Normalization.md` |
+| 7.1.4 | [Database Design](07-Databases/Relational-Databases/Database-Design.md) | ⚪ | `07-Databases/Relational-Databases/Database-Design.md` |
+| 7.1.5 | [SQL Queries with MySQL](07-Databases/Relational-Databases/SQL-Queries-with-MySQL.md) | ⚪ | `07-Databases/Relational-Databases/SQL-Queries-with-MySQL.md` |
+| 7.1.6 | [Transactions & ACID](07-Databases/Relational-Databases/Transactions-and-ACID.md) | ⚪ | `07-Databases/Relational-Databases/Transactions-and-ACID.md` |
+| 7.1.7 | [Associations in RDBMS](07-Databases/Relational-Databases/Associations-in-RDBMS.md) | ⚪ | `07-Databases/Relational-Databases/Associations-in-RDBMS.md` |
+| 7.1.8 | [Object Relational Mappers (ORM)](07-Databases/Relational-Databases/Object-Relational-Mappers-ORM.md) | ⚪ | `07-Databases/Relational-Databases/Object-Relational-Mappers-ORM.md` |
+| 7.1.9 | [Sequelize ORM](07-Databases/Relational-Databases/Sequelize-ORM.md) | ⚪ | `07-Databases/Relational-Databases/Sequelize-ORM.md` |
+
+#### 7.2 NoSQL
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 7.2.1 | [MongoDB](07-Databases/NoSQL/MongoDB.md) | ⚪ | `07-Databases/NoSQL/MongoDB.md` |
+
+---
+
+### 8. Backend Development with Node.js
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 8.1 | [Introduction to Node.js](08-Backend-Development-with-Nodejs/Introduction-to-Nodejs.md) | ⚪ | `08-Backend-Development-with-Nodejs/Introduction-to-Nodejs.md` |
+| 8.2 | [File I/O in Node.js](08-Backend-Development-with-Nodejs/File-IO-in-Nodejs.md) | ⚪ | `08-Backend-Development-with-Nodejs/File-IO-in-Nodejs.md` |
+| 8.3 | [Streams in Node.js](08-Backend-Development-with-Nodejs/Streams-in-Nodejs.md) | ⚪ | `08-Backend-Development-with-Nodejs/Streams-in-Nodejs.md` |
+| 8.4 | [Introduction to Express](08-Backend-Development-with-Nodejs/Introduction-to-Express.md) | ⚪ | `08-Backend-Development-with-Nodejs/Introduction-to-Express.md` |
+| 8.5 | [Setting up HTTP Server](08-Backend-Development-with-Nodejs/Setting-up-HTTP-Server.md) | ⚪ | `08-Backend-Development-with-Nodejs/Setting-up-HTTP-Server.md` |
+| 8.6 | [MVC Architecture](08-Backend-Development-with-Nodejs/MVC-Architecture.md) | ⚪ | `08-Backend-Development-with-Nodejs/MVC-Architecture.md` |
+| 8.7 | [REST](08-Backend-Development-with-Nodejs/REST.md) | ⚪ | `08-Backend-Development-with-Nodejs/REST.md` |
+| 8.8 | [Setting up Folder Structure](08-Backend-Development-with-Nodejs/Setting-up-Folder-Structure.md) | ⚪ | `08-Backend-Development-with-Nodejs/Setting-up-Folder-Structure.md` |
+| 8.9 | [Writing RESTful APIs](08-Backend-Development-with-Nodejs/Writing-RESTful-APIs.md) | ⚪ | `08-Backend-Development-with-Nodejs/Writing-RESTful-APIs.md` |
+| 8.10 | [Authentication](08-Backend-Development-with-Nodejs/Authentication.md) | ⚪ | `08-Backend-Development-with-Nodejs/Authentication.md` |
+| 8.11 | [API Gateway](08-Backend-Development-with-Nodejs/API-Gateway.md) | ⚪ | `08-Backend-Development-with-Nodejs/API-Gateway.md` |
+| 8.12 | [gRPC](08-Backend-Development-with-Nodejs/gRPC.md) | ⚪ | `08-Backend-Development-with-Nodejs/gRPC.md` |
+| 8.13 | [WebSockets](08-Backend-Development-with-Nodejs/WebSockets.md) | ⚪ | `08-Backend-Development-with-Nodejs/WebSockets.md` |
+| 8.14 | [Message Queues & Mail](08-Backend-Development-with-Nodejs/Message-Queues-and-Mail.md) | ⚪ | `08-Backend-Development-with-Nodejs/Message-Queues-and-Mail.md` |
+
+---
+
+### 9. System Design / Backend Architecture
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 9.1 | [Microservices](09-System-Design-Backend-Architecture/Microservices.md) | ⚪ | `09-System-Design-Backend-Architecture/Microservices.md` |
+| 9.2 | [Idempotent APIs](09-System-Design-Backend-Architecture/Idempotent-APIs.md) | ⚪ | `09-System-Design-Backend-Architecture/Idempotent-APIs.md` |
+| 9.3 | [Transactions & Locks](09-System-Design-Backend-Architecture/Transactions-and-Locks.md) | ⚪ | `09-System-Design-Backend-Architecture/Transactions-and-Locks.md` |
+| 9.4 | [Containers (Docker)](09-System-Design-Backend-Architecture/Containers-Docker.md) | ⚪ | `09-System-Design-Backend-Architecture/Containers-Docker.md` |
+| 9.5 | [Kubernetes (Optional)](09-System-Design-Backend-Architecture/Kubernetes.md) | ⚪ | `09-System-Design-Backend-Architecture/Kubernetes.md` |
+| 9.6 | [Deployments](09-System-Design-Backend-Architecture/Deployments.md) | ⚪ | `09-System-Design-Backend-Architecture/Deployments.md` |
+
+---
+
+### 10. Projects
+
+#### 10.1 Beginner Project
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 10.1.1 | [Telegram Bot](10-Projects/Beginner-Project/Telegram-Bot.md) | ⚪ | `10-Projects/Beginner-Project/Telegram-Bot.md` |
+
+#### 10.2 Project 1: Airline Booking System (Microservices)
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 10.2.0 | [Overview](10-Projects/Project-1-Airline-Booking-System/Overview.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Overview.md` |
+| 10.2.1 | [Writing REST API for First Microservice](10-Projects/Project-1-Airline-Booking-System/Writing-REST-API-for-First-Microservice.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Writing-REST-API-for-First-Microservice.md` |
+| 10.2.2 | [Flight Service API](10-Projects/Project-1-Airline-Booking-System/Flight-Service-API.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Flight-Service-API.md` |
+| 10.2.3 | [Booking Service](10-Projects/Project-1-Airline-Booking-System/Booking-Service.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Booking-Service.md` |
+| 10.2.4 | [Transactions & Locks](10-Projects/Project-1-Airline-Booking-System/Transactions-and-Locks.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Transactions-and-Locks.md` |
+| 10.2.5 | [Idempotent API](10-Projects/Project-1-Airline-Booking-System/Idempotent-API.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Idempotent-API.md` |
+| 10.2.6 | [Authentication](10-Projects/Project-1-Airline-Booking-System/Authentication.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Authentication.md` |
+| 10.2.7 | [API Gateway](10-Projects/Project-1-Airline-Booking-System/API-Gateway.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/API-Gateway.md` |
+| 10.2.8 | [Message Queues & Mail](10-Projects/Project-1-Airline-Booking-System/Message-Queues-and-Mail.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Message-Queues-and-Mail.md` |
+| 10.2.9 | [RDBMS Associations](10-Projects/Project-1-Airline-Booking-System/RDBMS-Associations.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/RDBMS-Associations.md` |
+
+#### 10.3 Project 2: Chat Application
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 10.3.1 | [Chat Application using WebSockets](10-Projects/Project-2-Chat-Application/Chat-Application-using-WebSockets.md) | ⚪ | `10-Projects/Project-2-Chat-Application/Chat-Application-using-WebSockets.md` |
+
+#### 10.4 Project 3: Twitter Monolith
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 10.4.1 | [Twitter Monolith Project](10-Projects/Project-3-Twitter-Monolith/Twitter-Monolith-Project.md) | ⚪ | `10-Projects/Project-3-Twitter-Monolith/Twitter-Monolith-Project.md` |
+
+---
+
+### 11. Testing
+
+| # | Topic | Status | File |
+|---|-------|--------|------|
+| 11.1 | [Unit Testing with Jest](11-Testing/Unit-Testing-with-Jest.md) | ⚪ | `11-Testing/Unit-Testing-with-Jest.md` |
 
 ---
 
@@ -1021,205 +1221,6 @@ BackendBytes-ZeroToOne/
 | `10-Projects/` | Telegram bot, Airline booking, Chat app, Twitter clone | All Levels | Portfolio-ready full-stack backends |
 | `11-Testing/` | Jest, unit testing, mocking | Intermediate | Write reliable, tested code |
 | `archive/` | Previous lecture notes, PDFs, and screenshots | — | Legacy reference material |
-
----
-
-## 📚 Complete Syllabus
-
-> **How to use this:** Every topic below is a clickable link to its dedicated tutorial file.  
-> 🟢 = Ready to read &nbsp;&nbsp; 🚧 = Work in progress &nbsp;&nbsp; ⚪ = Planned / waiting for content
-
----
-
-### 1. Orientation
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 1.1 | [Information Guide](01-Orientation/Information-Guide.md) | ⚪ | `01-Orientation/Information-Guide.md` |
-| 1.2 | [Course Navigation](01-Orientation/Course-Navigation.md) | ⚪ | `01-Orientation/Course-Navigation.md` |
-
----
-
-### 2. JavaScript Fundamentals
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 2.1 | [Introduction to Programming with JavaScript](02-JavaScript-Fundamentals/Introduction-to-Programming-with-JavaScript.md) | ⚪ | `02-JavaScript-Fundamentals/Introduction-to-Programming-with-JavaScript.md` |
-| 2.2 | [Conditionals in JavaScript](02-JavaScript-Fundamentals/Conditionals-in-JavaScript.md) | ⚪ | `02-JavaScript-Fundamentals/Conditionals-in-JavaScript.md` |
-| 2.3 | [Loops in JavaScript](02-JavaScript-Fundamentals/Loops-in-JavaScript.md) | ⚪ | `02-JavaScript-Fundamentals/Loops-in-JavaScript.md` |
-| 2.4 | [Functions](02-JavaScript-Fundamentals/Functions.md) | ⚪ | `02-JavaScript-Fundamentals/Functions.md` |
-| 2.5 | [Arrays in JavaScript](02-JavaScript-Fundamentals/Arrays-in-JavaScript.md) | ⚪ | `02-JavaScript-Fundamentals/Arrays-in-JavaScript.md` |
-| 2.6 | [Miscellaneous Fundamentals](02-JavaScript-Fundamentals/Miscellaneous-Fundamentals.md) | ⚪ | `02-JavaScript-Fundamentals/Miscellaneous-Fundamentals.md` |
-| 2.7 | [Unary Operators](02-JavaScript-Fundamentals/Unary-Operators.md) | ⚪ | `02-JavaScript-Fundamentals/Unary-Operators.md` |
-| 2.8 | [Switch](02-JavaScript-Fundamentals/Switch.md) | ⚪ | `02-JavaScript-Fundamentals/Switch.md` |
-| 2.9 | [Pattern Problem Solving](02-JavaScript-Fundamentals/Pattern-Problem-Solving.md) | ⚪ | `02-JavaScript-Fundamentals/Pattern-Problem-Solving.md` |
-| 2.10 | [Problem Solving on Loops](02-JavaScript-Fundamentals/Problem-Solving-on-Loops.md) | ⚪ | `02-JavaScript-Fundamentals/Problem-Solving-on-Loops.md` |
-
----
-
-### 3. Advanced JavaScript Core Concepts
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 3.1 | [Type Coercion & Abstract Operations](03-Advanced-JavaScript-Core-Concepts/Type-Coercion-and-Abstract-Operations.md) | ⚪ | `03-Advanced-JavaScript-Core-Concepts/Type-Coercion-and-Abstract-Operations.md` |
-| | *— Coercion* | | |
-| | *— ToPrimitive* | | |
-| | *— ToString* | | |
-| | *— ValueOf* | | |
-| | *— ToBoolean* | | |
-| | *— Abstract Equality* | | |
-| | *— Strict Equality* | | |
-| | *— Boxing* | | |
-| | *— NaN* | | |
-| | *— Negative Zero* | | |
-| 3.2 | [Scope & Execution Context](03-Advanced-JavaScript-Core-Concepts/Scope-and-Execution-Context.md) | ⚪ | `03-Advanced-JavaScript-Core-Concepts/Scope-and-Execution-Context.md` |
-| | *— Scopes* | | |
-| | *— Lexical Scoping* | | |
-| | *— var / let / const* | | |
-| 3.3 | [Higher Order Functions](03-Advanced-JavaScript-Core-Concepts/Higher-Order-Functions.md) | ⚪ | `03-Advanced-JavaScript-Core-Concepts/Higher-Order-Functions.md` |
-| 3.4 | [Callbacks](03-Advanced-JavaScript-Core-Concepts/Callbacks.md) | ⚪ | `03-Advanced-JavaScript-Core-Concepts/Callbacks.md` |
-| 3.5 | [Closures](03-Advanced-JavaScript-Core-Concepts/Closures.md) | ⚪ | `03-Advanced-JavaScript-Core-Concepts/Closures.md` |
-| 3.6 | [Iterators](03-Advanced-JavaScript-Core-Concepts/Iterators.md) | ⚪ | `03-Advanced-JavaScript-Core-Concepts/Iterators.md` |
-| 3.7 | [Generators](03-Advanced-JavaScript-Core-Concepts/Generators.md) | ⚪ | `03-Advanced-JavaScript-Core-Concepts/Generators.md` |
-
----
-
-### 4. Asynchronous JavaScript
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 4.1 | [Async Nature of JavaScript](04-Asynchronous-JavaScript/Async-Nature-of-JavaScript.md) | ⚪ | `04-Asynchronous-JavaScript/Async-Nature-of-JavaScript.md` |
-| 4.2 | [Introduction to Promises](04-Asynchronous-JavaScript/Introduction-to-Promises.md) | ⚪ | `04-Asynchronous-JavaScript/Introduction-to-Promises.md` |
-| 4.3 | [Promises In Depth](04-Asynchronous-JavaScript/Promises-In-Depth.md) | ⚪ | `04-Asynchronous-JavaScript/Promises-In-Depth.md` |
-| 4.4 | [Promise Chaining](04-Asynchronous-JavaScript/Promise-Chaining.md) | ⚪ | `04-Asynchronous-JavaScript/Promise-Chaining.md` |
-| 4.5 | [Converting Callbacks to Promises](04-Asynchronous-JavaScript/Converting-Callbacks-to-Promises.md) | ⚪ | `04-Asynchronous-JavaScript/Converting-Callbacks-to-Promises.md` |
-| 4.6 | [Async / Await](04-Asynchronous-JavaScript/Async-Await.md) | ⚪ | `04-Asynchronous-JavaScript/Async-Await.md` |
-
----
-
-### 5. Object-Oriented JavaScript
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 5.1 | [Objects](05-Object-Oriented-JavaScript/Objects.md) | ⚪ | `05-Object-Oriented-JavaScript/Objects.md` |
-| 5.2 | [Classes](05-Object-Oriented-JavaScript/Classes.md) | ⚪ | `05-Object-Oriented-JavaScript/Classes.md` |
-| 5.3 | [Prototypes](05-Object-Oriented-JavaScript/Prototypes.md) | ⚪ | `05-Object-Oriented-JavaScript/Prototypes.md` |
-| 5.4 | [Inheritance](05-Object-Oriented-JavaScript/Inheritance.md) | ⚪ | `05-Object-Oriented-JavaScript/Inheritance.md` |
-| 5.5 | [OOP Concepts](05-Object-Oriented-JavaScript/OOP-Concepts.md) | ⚪ | `05-Object-Oriented-JavaScript/OOP-Concepts.md` |
-
----
-
-### 6. Developer Tools & Fundamentals
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 6.1 | [Git / Version Control](06-Developer-Tools-and-Fundamentals/Git-and-Version-Control.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/Git-and-Version-Control.md` |
-| 6.2 | [Linux Fundamentals](06-Developer-Tools-and-Fundamentals/Linux-Fundamentals.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/Linux-Fundamentals.md` |
-| 6.3 | [How Internet Works](06-Developer-Tools-and-Fundamentals/How-Internet-Works.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/How-Internet-Works.md` |
-| 6.4 | [Computer Networks](06-Developer-Tools-and-Fundamentals/Computer-Networks.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/Computer-Networks.md` |
-
----
-
-### 7. Databases
-
-#### 7.1 Relational Databases
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 7.1.1 | [Introduction to Databases & RDBMS](07-Databases/Relational-Databases/Introduction-to-Databases-and-RDBMS.md) | ⚪ | `07-Databases/Relational-Databases/Introduction-to-Databases-and-RDBMS.md` |
-| 7.1.2 | [Functional Dependency](07-Databases/Relational-Databases/Functional-Dependency.md) | ⚪ | `07-Databases/Relational-Databases/Functional-Dependency.md` |
-| 7.1.3 | [Normalization](07-Databases/Relational-Databases/Normalization.md) | ⚪ | `07-Databases/Relational-Databases/Normalization.md` |
-| 7.1.4 | [Database Design](07-Databases/Relational-Databases/Database-Design.md) | ⚪ | `07-Databases/Relational-Databases/Database-Design.md` |
-| 7.1.5 | [SQL Queries with MySQL](07-Databases/Relational-Databases/SQL-Queries-with-MySQL.md) | ⚪ | `07-Databases/Relational-Databases/SQL-Queries-with-MySQL.md` |
-| 7.1.6 | [Transactions & ACID](07-Databases/Relational-Databases/Transactions-and-ACID.md) | ⚪ | `07-Databases/Relational-Databases/Transactions-and-ACID.md` |
-| 7.1.7 | [Associations in RDBMS](07-Databases/Relational-Databases/Associations-in-RDBMS.md) | ⚪ | `07-Databases/Relational-Databases/Associations-in-RDBMS.md` |
-| 7.1.8 | [Object Relational Mappers (ORM)](07-Databases/Relational-Databases/Object-Relational-Mappers-ORM.md) | ⚪ | `07-Databases/Relational-Databases/Object-Relational-Mappers-ORM.md` |
-| 7.1.9 | [Sequelize ORM](07-Databases/Relational-Databases/Sequelize-ORM.md) | ⚪ | `07-Databases/Relational-Databases/Sequelize-ORM.md` |
-
-#### 7.2 NoSQL
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 7.2.1 | [MongoDB](07-Databases/NoSQL/MongoDB.md) | ⚪ | `07-Databases/NoSQL/MongoDB.md` |
-
----
-
-### 8. Backend Development with Node.js
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 8.1 | [Introduction to Node.js](08-Backend-Development-with-Nodejs/Introduction-to-Nodejs.md) | ⚪ | `08-Backend-Development-with-Nodejs/Introduction-to-Nodejs.md` |
-| 8.2 | [File I/O in Node.js](08-Backend-Development-with-Nodejs/File-IO-in-Nodejs.md) | ⚪ | `08-Backend-Development-with-Nodejs/File-IO-in-Nodejs.md` |
-| 8.3 | [Streams in Node.js](08-Backend-Development-with-Nodejs/Streams-in-Nodejs.md) | ⚪ | `08-Backend-Development-with-Nodejs/Streams-in-Nodejs.md` |
-| 8.4 | [Introduction to Express](08-Backend-Development-with-Nodejs/Introduction-to-Express.md) | ⚪ | `08-Backend-Development-with-Nodejs/Introduction-to-Express.md` |
-| 8.5 | [Setting up HTTP Server](08-Backend-Development-with-Nodejs/Setting-up-HTTP-Server.md) | ⚪ | `08-Backend-Development-with-Nodejs/Setting-up-HTTP-Server.md` |
-| 8.6 | [MVC Architecture](08-Backend-Development-with-Nodejs/MVC-Architecture.md) | ⚪ | `08-Backend-Development-with-Nodejs/MVC-Architecture.md` |
-| 8.7 | [REST](08-Backend-Development-with-Nodejs/REST.md) | ⚪ | `08-Backend-Development-with-Nodejs/REST.md` |
-| 8.8 | [Setting up Folder Structure](08-Backend-Development-with-Nodejs/Setting-up-Folder-Structure.md) | ⚪ | `08-Backend-Development-with-Nodejs/Setting-up-Folder-Structure.md` |
-| 8.9 | [Writing RESTful APIs](08-Backend-Development-with-Nodejs/Writing-RESTful-APIs.md) | ⚪ | `08-Backend-Development-with-Nodejs/Writing-RESTful-APIs.md` |
-| 8.10 | [Authentication](08-Backend-Development-with-Nodejs/Authentication.md) | ⚪ | `08-Backend-Development-with-Nodejs/Authentication.md` |
-| 8.11 | [API Gateway](08-Backend-Development-with-Nodejs/API-Gateway.md) | ⚪ | `08-Backend-Development-with-Nodejs/API-Gateway.md` |
-| 8.12 | [gRPC](08-Backend-Development-with-Nodejs/gRPC.md) | ⚪ | `08-Backend-Development-with-Nodejs/gRPC.md` |
-| 8.13 | [WebSockets](08-Backend-Development-with-Nodejs/WebSockets.md) | ⚪ | `08-Backend-Development-with-Nodejs/WebSockets.md` |
-| 8.14 | [Message Queues & Mail](08-Backend-Development-with-Nodejs/Message-Queues-and-Mail.md) | ⚪ | `08-Backend-Development-with-Nodejs/Message-Queues-and-Mail.md` |
-
----
-
-### 9. System Design / Backend Architecture
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 9.1 | [Microservices](09-System-Design-Backend-Architecture/Microservices.md) | ⚪ | `09-System-Design-Backend-Architecture/Microservices.md` |
-| 9.2 | [Idempotent APIs](09-System-Design-Backend-Architecture/Idempotent-APIs.md) | ⚪ | `09-System-Design-Backend-Architecture/Idempotent-APIs.md` |
-| 9.3 | [Transactions & Locks](09-System-Design-Backend-Architecture/Transactions-and-Locks.md) | ⚪ | `09-System-Design-Backend-Architecture/Transactions-and-Locks.md` |
-| 9.4 | [Containers (Docker)](09-System-Design-Backend-Architecture/Containers-Docker.md) | ⚪ | `09-System-Design-Backend-Architecture/Containers-Docker.md` |
-| 9.5 | [Kubernetes (Optional)](09-System-Design-Backend-Architecture/Kubernetes.md) | ⚪ | `09-System-Design-Backend-Architecture/Kubernetes.md` |
-| 9.6 | [Deployments](09-System-Design-Backend-Architecture/Deployments.md) | ⚪ | `09-System-Design-Backend-Architecture/Deployments.md` |
-
----
-
-### 10. Projects
-
-#### 10.1 Beginner Project
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 10.1.1 | [Telegram Bot](10-Projects/Beginner-Project/Telegram-Bot.md) | ⚪ | `10-Projects/Beginner-Project/Telegram-Bot.md` |
-
-#### 10.2 Project 1: Airline Booking System (Microservices)
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 10.2.0 | [Overview](10-Projects/Project-1-Airline-Booking-System/Overview.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Overview.md` |
-| 10.2.1 | [Writing REST API for First Microservice](10-Projects/Project-1-Airline-Booking-System/Writing-REST-API-for-First-Microservice.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Writing-REST-API-for-First-Microservice.md` |
-| 10.2.2 | [Flight Service API](10-Projects/Project-1-Airline-Booking-System/Flight-Service-API.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Flight-Service-API.md` |
-| 10.2.3 | [Booking Service](10-Projects/Project-1-Airline-Booking-System/Booking-Service.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Booking-Service.md` |
-| 10.2.4 | [Transactions & Locks](10-Projects/Project-1-Airline-Booking-System/Transactions-and-Locks.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Transactions-and-Locks.md` |
-| 10.2.5 | [Idempotent API](10-Projects/Project-1-Airline-Booking-System/Idempotent-API.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Idempotent-API.md` |
-| 10.2.6 | [Authentication](10-Projects/Project-1-Airline-Booking-System/Authentication.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Authentication.md` |
-| 10.2.7 | [API Gateway](10-Projects/Project-1-Airline-Booking-System/API-Gateway.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/API-Gateway.md` |
-| 10.2.8 | [Message Queues & Mail](10-Projects/Project-1-Airline-Booking-System/Message-Queues-and-Mail.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/Message-Queues-and-Mail.md` |
-| 10.2.9 | [RDBMS Associations](10-Projects/Project-1-Airline-Booking-System/RDBMS-Associations.md) | ⚪ | `10-Projects/Project-1-Airline-Booking-System/RDBMS-Associations.md` |
-
-#### 10.3 Project 2: Chat Application
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 10.3.1 | [Chat Application using WebSockets](10-Projects/Project-2-Chat-Application/Chat-Application-using-WebSockets.md) | ⚪ | `10-Projects/Project-2-Chat-Application/Chat-Application-using-WebSockets.md` |
-
-#### 10.4 Project 3: Twitter Monolith
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 10.4.1 | [Twitter Monolith Project](10-Projects/Project-3-Twitter-Monolith/Twitter-Monolith-Project.md) | ⚪ | `10-Projects/Project-3-Twitter-Monolith/Twitter-Monolith-Project.md` |
-
----
-
-### 11. Testing
-
-| # | Topic | Status | File |
-|---|-------|--------|------|
-| 11.1 | [Unit Testing with Jest](11-Testing/Unit-Testing-with-Jest.md) | ⚪ | `11-Testing/Unit-Testing-with-Jest.md` |
 
 ---
 
