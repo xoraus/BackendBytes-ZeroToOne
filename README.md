@@ -218,11 +218,27 @@ By the end of this journey, you'll have built:
 
 | # | Topic | Status | File |
 |---|-------|--------|------|
-| 5.1 | [Objects](05-Object-Oriented-JavaScript/Objects.md) | ⚪ | `05-Object-Oriented-JavaScript/Objects.md` |
-| 5.2 | [Classes](05-Object-Oriented-JavaScript/Classes.md) | ⚪ | `05-Object-Oriented-JavaScript/Classes.md` |
-| 5.3 | [Prototypes](05-Object-Oriented-JavaScript/Prototypes.md) | ⚪ | `05-Object-Oriented-JavaScript/Prototypes.md` |
-| 5.4 | [Inheritance](05-Object-Oriented-JavaScript/Inheritance.md) | ⚪ | `05-Object-Oriented-JavaScript/Inheritance.md` |
-| 5.5 | [OOP Concepts](05-Object-Oriented-JavaScript/OOP-Concepts.md) | ⚪ | `05-Object-Oriented-JavaScript/OOP-Concepts.md` |
+| 5.1 | [Objects](05-Object-Oriented-JavaScript/Objects.md) | 🟢 | `05-Object-Oriented-JavaScript/Objects.md` |
+| | *— Object creation (literal, constructor, Object.create, factory)* | | |
+| | *— Property descriptors (writable, enumerable, configurable)* | | |
+| | *— Getters & Setters, Object methods, Deep vs Shallow copy* | | |
+| | *— Destructuring & Spread* | | |
+| 5.2 | [OOP Concepts](05-Object-Oriented-JavaScript/OOP-Concepts.md) | 🟢 | `05-Object-Oriented-JavaScript/OOP-Concepts.md` |
+| | *— Four Pillars: Encapsulation, Abstraction, Inheritance, Polymorphism* | | |
+| | *— SOLID Principles* | | |
+| | *— Prototypal vs Classical OOP* | | |
+| 5.3 | [Prototypes](05-Object-Oriented-JavaScript/Prototypes.md) | 🟢 | `05-Object-Oriented-JavaScript/Prototypes.md` |
+| | *— `__proto__` vs `prototype`* | | |
+| | *— Prototype Chain, Constructor Functions* | | |
+| | *— `Object.create()`, `instanceof`* | | |
+| 5.4 | [Classes](05-Object-Oriented-JavaScript/Classes.md) | 🟢 | `05-Object-Oriented-JavaScript/Classes.md` |
+| | *— ES6 Class Syntax, Constructor, Static Methods* | | |
+| | *— Getters/Setters, Private Fields (`#`)* | | |
+| | *— Class Expressions, Class vs Function Constructor* | | |
+| 5.5 | [Inheritance](05-Object-Oriented-JavaScript/Inheritance.md) | 🟢 | `05-Object-Oriented-JavaScript/Inheritance.md` |
+| | *— Prototypal & Class Inheritance (`extends`, `super`)* | | |
+| | *— Method Overriding, Composition vs Inheritance* | | |
+| | *— Mixins, Multiple Inheritance Workarounds* | | |
 
 ---
 
@@ -230,10 +246,22 @@ By the end of this journey, you'll have built:
 
 | # | Topic | Status | File |
 |---|-------|--------|------|
-| 6.1 | [Git / Version Control](06-Developer-Tools-and-Fundamentals/Git-and-Version-Control.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/Git-and-Version-Control.md` |
-| 6.2 | [Linux Fundamentals](06-Developer-Tools-and-Fundamentals/Linux-Fundamentals.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/Linux-Fundamentals.md` |
-| 6.3 | [How Internet Works](06-Developer-Tools-and-Fundamentals/How-Internet-Works.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/How-Internet-Works.md` |
-| 6.4 | [Computer Networks](06-Developer-Tools-and-Fundamentals/Computer-Networks.md) | ⚪ | `06-Developer-Tools-and-Fundamentals/Computer-Networks.md` |
+| 6.1 | [How Internet Works](06-Developer-Tools-and-Fundamentals/How-Internet-Works.md) | 🟢 | `06-Developer-Tools-and-Fundamentals/How-Internet-Works.md` |
+| | *— DNS, IP Addresses, Packets & Routing* | | |
+| | *— TCP vs UDP, HTTP/HTTPS, TLS Handshake* | | |
+| | *— Clients/Servers, CDNs & Caching* | | |
+| 6.2 | [Computer Networks](06-Developer-Tools-and-Fundamentals/Computer-Networks.md) | 🟢 | `06-Developer-Tools-and-Fundamentals/Computer-Networks.md` |
+| | *— OSI 7-Layer & TCP/IP Models, Network Topologies* | | |
+| | *— Protocols (HTTP/2/3, WebSocket, SSH, FTP, SMTP)* | | |
+| | *— Firewalls, Proxies, Load Balancers, NAT* | | |
+| 6.3 | [Git & Version Control](06-Developer-Tools-and-Fundamentals/Git-and-Version-Control.md) | 🟢 | `06-Developer-Tools-and-Fundamentals/Git-and-Version-Control.md` |
+| | *— Branching, Merging, Rebasing, Stashing* | | |
+| | *— Remotes, Undoing Changes, Resolving Conflicts* | | |
+| | *— GitHub Workflow, Cherry-pick, Bisect, Reflog* | | |
+| 6.4 | [Linux Fundamentals](06-Developer-Tools-and-Fundamentals/Linux-Fundamentals.md) | 🟢 | `06-Developer-Tools-and-Fundamentals/Linux-Fundamentals.md` |
+| | *— File System, Permissions, Essential Commands* | | |
+| | *— Text Processing (grep, sed, awk, cut), Pipes* | | |
+| | *— Process Management, Shell Scripting, SSH, Cron* | | |
 
 ---
 
@@ -336,7 +364,11 @@ By the end of this journey, you'll have built:
 
 | # | Topic | Status | File |
 |---|-------|--------|------|
-| 11.1 | [Unit Testing with Jest](11-Testing/Unit-Testing-with-Jest.md) | ⚪ | `11-Testing/Unit-Testing-with-Jest.md` |
+| 11.1 | [Unit Testing with Jest](11-Testing/Unit-Testing-with-Jest.md) | 🟢 | `11-Testing/Unit-Testing-with-Jest.md` |
+| | *— Testing Pyramid, Matchers, Async Testing* | | |
+| | *— Setup/Teardown, Mocking (fn, modules, spies, timers)* | | |
+| | *— Snapshot Testing, Code Coverage, Parameterized Tests* | | |
+| | *— Testing Express APIs, TDD Patterns* | | |
 
 ---
 
